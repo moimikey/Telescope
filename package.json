@@ -19,7 +19,7 @@
     "juice": "^1.11.0",
     "mailchimp": "^1.1.6",
     "marked": "^0.3.5",
-    "meteor-node-stubs": "^0.2.3",
+    "meteor-node-stubs": "^1.0.2",
     "moment": "^2.13.0",
     "react": "^15.3.2",
     "react-addons-pure-render-mixin": "^15.3.2",
